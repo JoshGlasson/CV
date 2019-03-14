@@ -38,12 +38,12 @@ Currently on the L4 Software Developer apprenticeship with Tesco, attending Make
 Looking after the data for all of our apprentices and graduates. Managing our levy fund. Ensuring our programmes were at the highest quality they could be.
 
 **F&F** (June 2015 to May 2017)  
-*Assistant Merchandiser*
+*Assistant Merchandiser*  
 Working in the Kids Footwear and Accessories team, managing pricing, stock and ranging.
 
 **Tesco** (July 2013 to June 2015)   
 *Trainee Buyer*
-*Assistant Merchandiser*
+*Assistant Merchandiser*  
 Working in the Central European Electrical team.
 
 **Tesco** (September 2011 to July 2013)   
@@ -65,5 +65,5 @@ A 12-week intensive development bootcamp, emphasising:
 ## Interests
 
 I play football in a six-a-side league on Mondays with my friends.   
-I try to go to the gym most evenings usually attending classes like Body Pump and Body Balance.
+I try to go to the gym most evenings usually attending classes like Body Pump and Body Balance.   
 I also enjoy gaming in my spare time.

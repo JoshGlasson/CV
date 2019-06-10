@@ -24,7 +24,10 @@ In my role as Data and Quality Executive for the Apprenticeship team in Tesco I 
 
 ## Projects
 
-No major projects so far, will add when I get near the end of the Makers course!
+| Project  | Description | Link |
+| ------------- | ------------- | ------------- |
+| GitClub  | For our final project at Makers Academy we created a sports team management web app focused on managing a football team  | [GitHub](https://github.com/JoshGlasson/GitClub)<br>[Heroku](https://gitclub-fc.herokuapp.com/) |
+
 
 
 ## Experience
@@ -60,6 +63,14 @@ A 12-week intensive development bootcamp, emphasising:
 - Test Driven Development
 - Object Oriented Design
 - Agile
+
+### A Levels (June 2011 - June 2013)
+Great Baddow High School
+- Business Studies : **A**
+- General Studies : **B**
+- Chemistry : **D**
+- History : **D**
+
 
 
 ## Interests

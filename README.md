@@ -24,10 +24,18 @@ In my role as Data and Quality Executive for the Apprenticeship team in Tesco I 
 
 ## Projects
 
-| Project  | Description | Link |
-| ------------- | ------------- | ------------- |
-| GitClub  | For our final project at Makers Academy we created a sports team management web app focused on managing a football team  | [GitHub](https://github.com/JoshGlasson/GitClub)<br>[Heroku](https://gitclub-fc.herokuapp.com/) |
-
+<table style="width:100%">
+  <tr>
+    <th>Project</th>
+    <th>Description</th> 
+    <th>Links</th>
+  </tr>
+  <tr>
+    <td>GitClub</td>
+    <td>For our final project at Makers Academy we created a sports team management web app focused on managing a football team</td> 
+    <td><a href="https://github.com/JoshGlasson/GitClub">GitHub</a><br /><a href="https://gitclub-fc.herokuapp.com">Heroku</a></td>
+  </tr>
+</table>
 
 
 ## Experience

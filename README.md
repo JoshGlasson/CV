@@ -4,7 +4,7 @@
 
 Having previously worked as a commercial buyer and merchandiser, and a data analyst, I decided I wanted to follow a passion of mine and learn to code. I applied for an apprenticeship with Makers Academy in order to achieve this.
 
-I'm currently employed by Tesco as a Software Developer Level 1, completing the apprenticeship at Makers Academy before officially starting.
+I'm currently employed by Tesco as a Software Developer Level 1, completing the coding bootcamp at Makers Academy before officially starting.
 
 
 ## Skills
@@ -13,7 +13,7 @@ I'm currently employed by Tesco as a Software Developer Level 1, completing the 
 
 In all of my previous roles communication has been very important, whether that be with suppliers and training providers, or other stakeholders in the business. During my time at Makers Academy there was also a big focus on Pair Programming.
 
-Whilst I am at Makers Academy I am maintaining a [blog](https://joshlearningto.code.blog/) about learning to code.
+Whilst I was at Makers Academy I maintained a [blog](https://joshlearningto.code.blog/) about my journey learning to code.
 
 #### Analysis
 
@@ -42,7 +42,7 @@ In my role as Data and Quality Executive for the Apprenticeship team in Tesco I 
 
 **Tesco** (March 2019 to Now)    
 *Software Developer Level 1*  
-Currently on the L4 Software Developer apprenticeship with Tesco, attending Makers Academy for the first 3 months.
+Currently on the L4 Software Developer apprenticeship with Tesco, having attended Makers Academy coding bootcamp for the first 3 months.
 
 **Tesco** (May 2017 to March 2019)   
 *Data and Quality Executive*  
@@ -84,5 +84,5 @@ Great Baddow High School
 ## Interests
 
 I play football in a six-a-side league on Mondays with my friends.   
-I try to go to the gym most evenings usually attending classes like Body Pump and Body Balance.   
-I also enjoy gaming in my spare time.
+I go to the gym during the week.   
+I enjoy gaming in my spare time.
